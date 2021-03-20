@@ -1,0 +1,10 @@
+Types Fetching Datas : {
+    Client Side Fetching,
+    Server Side Rendering,
+    Static Generation
+    Static Pages Dynamic,
+    Incremental Static Generation
+},
+Dynamic Imports,
+Page 404 Default customized,
+Lazy Load Components
